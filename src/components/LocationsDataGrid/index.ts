@@ -1,0 +1,1 @@
+export { LocationsDataGrid } from './LocationsDataGrid'

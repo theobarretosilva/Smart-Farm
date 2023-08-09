@@ -1,0 +1,1 @@
+export { LocationsLayout } from './LocationsLayout'

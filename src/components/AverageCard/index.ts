@@ -1,0 +1,1 @@
+export { AverageCard } from './AverageCard'
